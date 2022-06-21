@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_Get All Transaction (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec949350-7d91-4f56-a160-a67eba02e7a4</testCaseGuid>
+</TestCaseEntity>

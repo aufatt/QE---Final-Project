@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018_Create Transaction (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fb65322-fdee-4fce-a2f4-062ceb50f631</testCaseGuid>
+</TestCaseEntity>

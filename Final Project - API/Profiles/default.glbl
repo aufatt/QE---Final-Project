@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>200</initValue>
+      <name>Response_success</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>400</initValue>
+      <name>Response_bad_request</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>500</initValue>
+      <name>Response_server_error</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>405</initValue>
+      <name>Response_method_not_allowed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>401</initValue>
+      <name>Response_unauthorized</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'kesehatan'</initValue>
+      <name>Data_create_category</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Aurora'</initValue>
+      <name>Data_register</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJGdWxsbmFtZSI6IkF1cm9yYSBGYXR3YXJpIFN1cnlhZGkiLCJFbWFpbCI6ImF1cm9yYWZhdHdhcmlAZ21haWwuY29tIn0.1kYfBHX11kuEGab-e97mpYQYoR1az15CEZPb8J4kayU'</initValue>
+      <name>data_login_token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
